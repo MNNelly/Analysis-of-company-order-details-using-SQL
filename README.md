@@ -1,5 +1,5 @@
 # Analysis-of-company-orders-using-SQL
-In this project, I analyzed the company order details for the year 2011 from a data set retrieved from adventure works. The data set comprises of vendors, order details as well as the shipping methods.
+In this project, I analyzed the company orders for the year 2011 from a data set retrieved from adventure works. The data set comprises of vendors, order details as well as the shipping methods.
 # Questions
 1. What is the total number of sales?
 2. What shipping method is most preferred and which one is the least preffered?
