@@ -12,3 +12,5 @@ In this project, I analyzed the company orders for the year 2011 from a data set
 3. 50 businesses made 51 orders each in 2011.
 4. VendorID 1576 had the highest sales orders of 5034266.74.
 5. The average lead time per vendor order was 19.
+# Tool used
+SQL
